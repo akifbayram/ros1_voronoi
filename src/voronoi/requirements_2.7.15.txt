@@ -1,0 +1,14 @@
+PyYAML==5.3.1
+rospkg
+mpi4py
+joblib
+gym
+pathlib
+wandb
+Image
+setproctitle
+imageio==2.6.1
+# pytorch==1.12
+# tensorflow
+# torchvision # ----install the following using conda
+# tensorboard
